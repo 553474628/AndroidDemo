@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02_Viewpager/02_Viewpager.iml" filepath="$PROJECT_DIR$/02_Viewpager/02_Viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_popupwindow/03_popupwindow.iml" filepath="$PROJECT_DIR$/03_popupwindow/03_popupwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_define/05_define.iml" filepath="$PROJECT_DIR$/05_define/05_define.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_myviewpager/06_myviewpager.iml" filepath="$PROJECT_DIR$/06_myviewpager/06_myviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_quickindex/07_quickindex.iml" filepath="$PROJECT_DIR$/07_quickindex/07_quickindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_slidemenu/08_slidemenu.iml" filepath="$PROJECT_DIR$/08_slidemenu/08_slidemenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomView.iml" filepath="$PROJECT_DIR$/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cb="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.example.define.MyAttributeView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        cb:my_name="陈彬最帅"
+        cb:my_age="21"
+        cb:my_bg="@drawable/bg"/>
+
+</RelativeLayout>
