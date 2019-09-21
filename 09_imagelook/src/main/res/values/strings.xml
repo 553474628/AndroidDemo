@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">09_imagelook</string>
+    <string name="path_url">请输入网址</string>
+</resources>
