@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/07_quickindex/07_quickindex.iml" filepath="$PROJECT_DIR$/07_quickindex/07_quickindex.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_slidemenu/08_slidemenu.iml" filepath="$PROJECT_DIR$/08_slidemenu/08_slidemenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/09_imagelook/09_imagelook.iml" filepath="$PROJECT_DIR$/09_imagelook/09_imagelook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_sendnote/10_sendnote.iml" filepath="$PROJECT_DIR$/10_sendnote/10_sendnote.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomView.iml" filepath="$PROJECT_DIR$/CustomView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
